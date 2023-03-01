@@ -9,11 +9,9 @@ I also have a strong portfolio of projects and certifications. I have also earne
 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) [samirmusali](https://www.linkedin.com/in/samirmusali)
 
-![Github-sponsors](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA) [smusali](https://www.github.com/smusali)
-
 ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white) [samirmusali](https://www.twitter.com/samirmusali)
 
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) [samir.musali@gmail.com](mailto:samir.musali@gmail.com)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) [email me](mailto:samir.musali@gmail.com)
 
 ## ⚡ Technologies
 
