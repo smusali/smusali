@@ -6,9 +6,9 @@ I have a professional background that includes working as a Software Engineer at
 In addition to my professional experience, I have a solid academic background. I started my studies in Computer Science at Baku State University but later transferred to the University of Waterloo, where I received my Honours Bachelor of Computer Science. Currently, I am pursuing a Master of Arts in Innovation and Technology Management at the University of Tartu.
 
 I also have a strong portfolio of projects and certifications. I have also earned certificates from Coursera and DataCamp, including Machine Learning, Software Product Management, and Data Analysis. I am a motivated, knowledgeable, and experienced software engineer with a passion for developing and improving software solutions.
-<!--
+
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) [samirmusali](https://www.linkedin.com/in/samirmusali)
--->
+
 ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white) [samirmusali](https://www.twitter.com/samirmusali)
 
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) [samir.musali@gmail.com](mailto:samir.musali@gmail.com)
